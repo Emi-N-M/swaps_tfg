@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "126851218513",
+    "project_id": "swaps-fcc15",
+    "storage_bucket": "swaps-fcc15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126851218513:android:315bfa2073f72bd8bbcc70",
+        "android_client_info": {
+          "package_name": "com.emilionunez.swaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126851218513-61uh68fahdqfuvroaa3ijv66iq7peslj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emilionunez.swaps",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "126851218513-gnapojivevnecs0icqu8di5gnn55rafq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7dPxtCPJisoi4l4iJQcFKZ7S4ixHY-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126851218513-gnapojivevnecs0icqu8di5gnn55rafq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126851218513-1l610qgao4i4etdj8v1vo5929o98voto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.emilionunez.swaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
